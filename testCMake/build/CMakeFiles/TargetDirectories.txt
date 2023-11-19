@@ -1,0 +1,3 @@
+/home/untcm/develop/repository/cppWorkspace/myCppWebServer/testCMake/build/CMakeFiles/webServer.dir
+/home/untcm/develop/repository/cppWorkspace/myCppWebServer/testCMake/build/CMakeFiles/edit_cache.dir
+/home/untcm/develop/repository/cppWorkspace/myCppWebServer/testCMake/build/CMakeFiles/rebuild_cache.dir
