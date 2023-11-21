@@ -1,2 +1,9 @@
 # .gitignore
-build/**
+# 忽略.vscode
+.vscode/
+# 忽略所有build目录
+**/build/
+# 忽略testCMake下所有文件和目录
+testCMake/*
+# 不忽略testCMake下src目录
+!testCMake/src/
