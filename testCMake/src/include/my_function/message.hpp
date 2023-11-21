@@ -1,5 +1,5 @@
-#ifndef MESSAGE_H
-#define MESSAGE_H
+#ifndef FUNCTIONS_MESSAGE_H
+#define FUNCTIONS_MESSAGE_H
 
 #include <ostream>
 #include <string>
@@ -14,7 +14,6 @@ class Message {
 
   private:
   std::string message_;
-  public:
   std::ostream &PrintObject(std::ostream &os);
 };
 
