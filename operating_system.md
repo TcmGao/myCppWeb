@@ -48,4 +48,4 @@
   * 对于文件的写操作，采用经典的write log first, then write data策略，保证一致性
 6. [设备控制器](https://mp.weixin.qq.com/s/fKHOf_CzG8HYXHlg54V_rg)
   * 设备控制器与cpu交互图示：
-  ![链接截图](resource/image-1.png)
+  ![链接截图](resource/device_controller.png)
